@@ -1,0 +1,16 @@
+PODS:
+  - SystemPod (0.1.0)
+
+DEPENDENCIES:
+  - SystemPod (from `../`)
+
+EXTERNAL SOURCES:
+  SystemPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SystemPod: ddeb5359d57e0325128942c479da64d416bae07d
+
+PODFILE CHECKSUM: 2c77ea4c08070768aa8a2af527565a447c7a1bf8
+
+COCOAPODS: 1.12.1
