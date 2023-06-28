@@ -1,8 +1,7 @@
 {
   "name": "SystemPod",
-  "version": "0.1.0",
-  "summary": "A short description of SystemPod.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.0.1",
+  "summary": "This pod is usally used to render the UIViews",
   "homepage": "https://github.com/Harsh Joshi/SystemPod",
   "license": {
     "type": "MIT",
@@ -12,8 +11,8 @@
     "Harsh Joshi": "harsh.joshi@infobeans.com"
   },
   "source": {
-    "git": "https://github.com/Harsh Joshi/SystemPod.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/HarshJoshi96/SystemPod.git",
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "10.0"
