@@ -7,12 +7,18 @@
 //
 
 import UIKit
+import SystemPod
 
 class ViewController: UIViewController {
-
+   
+    @IBOutlet weak var myView: UIView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        myView.backgroundColor = UIColor.red
         // Do any additional setup after loading the view, typically from a nib.
+        myView.addCornerRadius()
+        myView.makeRounded()
     }
 
     override func didReceiveMemoryWarning() {
