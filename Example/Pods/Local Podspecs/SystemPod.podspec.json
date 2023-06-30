@@ -1,6 +1,6 @@
 {
   "name": "SystemPod",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "summary": "This pod is usally used to render the UIViews",
   "homepage": "https://github.com/Harsh Joshi/SystemPod",
   "license": {
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/HarshJoshi96/SystemPod.git",
-    "tag": "0.0.1"
+    "tag": "0.0.7"
   },
   "platforms": {
     "ios": "10.0"
